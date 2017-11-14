@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/ShowPos.unity
+- path: Assets/minimap.unity
   isLoaded: 1
   isActive: 1

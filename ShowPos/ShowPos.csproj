@@ -284,6 +284,7 @@
     <Compile Include="Assets\GoogleARCore\SDK\Scripts\Utility\ProvidedSingleton.cs" />
     <Compile Include="Assets\GoogleARCore\SDK\Scripts\Utility\SingletonComponentProvider.cs" />
     <Compile Include="Assets\Scripts\PositionTracking.cs" />
+    <Compile Include="Assets\UpdatePos.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\GoogleARCore\HelloARExample\Materials\Shaders\MobileDiffuseWithLightEstimation.shader" />
