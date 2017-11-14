@@ -6,5 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/ShowPos.unity
+    path: 
     guid: 092172438ab6db24287aebcb731955ae
+  - enabled: 1
+    path: Assets/directme.unity
+    guid: 1bcdc35518151914f86e5a6680e01bea

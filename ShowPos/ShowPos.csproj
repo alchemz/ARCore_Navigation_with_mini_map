@@ -231,7 +231,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\ConnectPointsWithCylinderMesh.cs" />
     <Compile Include="Assets\GoogleARCore\HelloARExample\Scripts\HelloARController.cs" />
     <Compile Include="Assets\GoogleARCore\HelloARExample\Scripts\PlaneAttachment.cs" />
     <Compile Include="Assets\GoogleARCore\HelloARExample\Scripts\PointcloudVisualizer.cs" />
@@ -283,8 +282,9 @@
     <Compile Include="Assets\GoogleARCore\SDK\Scripts\Utility\MarshalingHelper.cs" />
     <Compile Include="Assets\GoogleARCore\SDK\Scripts\Utility\ProvidedSingleton.cs" />
     <Compile Include="Assets\GoogleARCore\SDK\Scripts\Utility\SingletonComponentProvider.cs" />
+    <Compile Include="Assets\Scripts\ConnectPointsWithCylinderMesh.cs" />
     <Compile Include="Assets\Scripts\PositionTracking.cs" />
-    <Compile Include="Assets\UpdatePos.cs" />
+    <Compile Include="Assets\Scripts\UpdatePos.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\GoogleARCore\HelloARExample\Materials\Shaders\MobileDiffuseWithLightEstimation.shader" />
